@@ -2198,6 +2198,14 @@
 				width: 100%;
 			}
 
+			.image.half {
+				width: 70%;
+			}
+
+			.image.round {
+				border-radius: 50%;
+			}
+
 /* List */
 
 	ol {
@@ -3523,7 +3531,7 @@
 					}
 
 				}
-				
+
 		#header nav {
 			height: inherit;
 			line-height: inherit;
