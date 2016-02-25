@@ -2617,16 +2617,16 @@
 		}
 
 			.features li:nth-child(4n+1) {
-				background-color: rgba(0, 0, 0, .1);
+				background-color: rgba(0, 0, 0, .02);
 			}
 			.features li:nth-child(4n+2) {
-				background-color: rgba(0, 0, 0, .2);
+				background-color: rgba(0, 0, 0, .04);
 			}
 			.features li:nth-child(4n+3) {
-				background-color: rgba(0, 0, 0, .2);
+				background-color: rgba(0, 0, 0, .04);
 			}
 			.features li:nth-child(4n+4) {
-				background-color: rgba(0, 0, 0, .1);
+				background-color: rgba(0, 0, 0, .02);
 			}
 
 			.features li:before {
@@ -2735,7 +2735,6 @@
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(0, 0, 0, 0.075);
 		}
 
 		.spotlight:nth-child(2) {
@@ -2949,9 +2948,9 @@
 				border-color: rgba(0, 0, 0, 0.125);
 			}
 
-				.wrapper.style1 table tbody tr:nth-child(2n + 1) {
-					background-color: rgba(255, 255, 255, 0.075);
-				}
+      .wrapper.style1 table tbody tr:nth-child(2n + 1) {
+        background-color: rgba(255, 255, 255, 0.075);
+      }
 
 			.wrapper.style1 table th {
 				color: #ffffff;
@@ -3007,7 +3006,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #f9f9f9;
+			background-color: #fff;
 			color: #0c1833;
 		}
 
@@ -3112,9 +3111,9 @@
 				border-color: rgba(0, 0, 0, 0.125);
 			}
 
-				.wrapper.style3 table tbody tr:nth-child(2n + 1) {
-					background-color: rgba(255, 255, 255, 0.075);
-				}
+      .wrapper.style3 table tbody tr:nth-child(2n + 1) {
+        background-color: rgba(255, 255, 255, 0.075);
+      }
 
 			.wrapper.style3 table th {
 				color: #ffffff;
@@ -3166,7 +3165,7 @@
 			}
 
 		.wrapper.style4 {
-			background-color: #f9f9f9;
+			background-color: #fff;
 			color: #0c1833;
 			/*background-color: transparent;*/
 		}
