@@ -2617,7 +2617,7 @@
 		}
 
 			.features li:nth-child(4n+1) {
-				background-color: rgba(0, 0, 0, .02);
+				background-color: rgba(0, 0, 0, 0);
 			}
 			.features li:nth-child(4n+2) {
 				background-color: rgba(0, 0, 0, .04);
@@ -2626,7 +2626,7 @@
 				background-color: rgba(0, 0, 0, .04);
 			}
 			.features li:nth-child(4n+4) {
-				background-color: rgba(0, 0, 0, .02);
+				background-color: rgba(0, 0, 0, 0);
 			}
 
 			.features li:before {
